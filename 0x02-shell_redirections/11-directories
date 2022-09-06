@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | wc -|
+find . -type d -not '.' | wc -1
