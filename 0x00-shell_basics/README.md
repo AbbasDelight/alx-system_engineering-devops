@@ -1,2 +1,1 @@
-
-Display the contents list of your current
+script that changes the working directory to the user home directory
